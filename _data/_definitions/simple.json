@@ -2,6 +2,10 @@
   "Title": {
     "required": true
   },
+  URL{
+    "type": "url_slug",
+    "required": true
+  },
   "Upload File": {
     "type": "image",
     "required": true
