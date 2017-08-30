@@ -1,9 +1,5 @@
 {
   "Title": {
     "required": true
-  },
-  "URL": {
-    "type": "url_slug",
-    "required": true
   }
 }
