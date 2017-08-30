@@ -2,7 +2,7 @@
   "Title": {
     "required": true
   },
-  "SlugName": {
+  "Slug Name": {
     "type": "url_slug",
     "required": true
   }
