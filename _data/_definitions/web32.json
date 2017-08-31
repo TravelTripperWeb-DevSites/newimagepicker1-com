@@ -1,5 +1,9 @@
 {
   "Title": {
     "required": true
+  },
+  "test slug": {
+    "type": "url_slug",
+    "required": true
   }
 }
