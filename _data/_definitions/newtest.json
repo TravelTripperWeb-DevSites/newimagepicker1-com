@@ -3,7 +3,7 @@
   "Title": {
     "required": true
   },
-  "URL": {
+  "Thumb Image": {
     "type": "url_slug",
     "required": true
   }
