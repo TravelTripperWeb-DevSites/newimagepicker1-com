@@ -50,7 +50,7 @@
         "url_medium": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020742/medium_south-beach-miami-packing-list.jpg",
         "url_small": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020742/small_south-beach-miami-packing-list.jpg",
         "url_xsmall": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020742/xsmall_south-beach-miami-packing-list.jpg",
-        "url_thumb": "//cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-15-030338/arctic-fox-PNG18479.png"
+        "url_thumb": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-15-030338/arctic-fox-PNG18479.png"
       }
    ],
   "gallery_description": "Ordered photos of Dining Room",
