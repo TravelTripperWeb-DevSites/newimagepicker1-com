@@ -187,6 +187,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-064100/small_happybirthday.jpeg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-064100/xsmall_happybirthday.jpeg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-064100/thumb_happybirthday.jpeg"
+    },
+    {
+      "name": "pdf",
+      "file_name": "pdf",
+      "file_type": "application/pdf",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-062318/pdf.pdf",
+      "date_added": "pdf",
+      "tags": "",
+      "file_size": "433994",
+      "width": "",
+      "height": "",
+      "description": "",
+      "url_large": "",
+      "url_medium": "",
+      "url_small": "",
+      "url_xsmall": "",
+      "url_thumb": ""
     }
   ],
   "gallery_description": "",
