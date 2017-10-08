@@ -272,6 +272,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/small_autumn_leaves_PNG3571.png",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/xsmall_autumn_leaves_PNG3571.png",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/thumb_autumn_leaves_PNG3571.png"
+    },
+    {
+      "name": "mint_PNG38",
+      "file_name": "mint_PNG38",
+      "file_type": "image/png",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/mint-PNG38.png",
+      "date_added": "mint_PNG38",
+      "tags": "",
+      "file_size": "28801",
+      "width": "150",
+      "height": "150",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/large_mint_PNG38.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/medium_mint_PNG38.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/small_mint_PNG38.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/xsmall_mint_PNG38.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/thumb_mint_PNG38.png"
     }
   ],
   "gallery_description": "",
