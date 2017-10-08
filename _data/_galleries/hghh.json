@@ -255,6 +255,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-063809/small_index.jpeg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-063809/xsmall_index.jpeg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-063809/thumb_index.jpeg"
+    },
+    {
+      "name": "autumn_leaves_PNG3571",
+      "file_name": "autumn_leaves_PNG3571",
+      "file_type": "image/png",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/autumn-leaves-PNG3571.png",
+      "date_added": "autumn_leaves_PNG3571",
+      "tags": "",
+      "file_size": "4272679",
+      "width": "2348",
+      "height": "2436",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/large_autumn_leaves_PNG3571.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/medium_autumn_leaves_PNG3571.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/small_autumn_leaves_PNG3571.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/xsmall_autumn_leaves_PNG3571.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-032852/thumb_autumn_leaves_PNG3571.png"
     }
   ],
   "gallery_description": "",
