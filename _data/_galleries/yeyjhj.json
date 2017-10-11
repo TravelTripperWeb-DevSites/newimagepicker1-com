@@ -85,23 +85,6 @@
       "url_small": "",
       "url_xsmall": "",
       "url_thumb": ""
-    },
-    {
-      "name": "pdf-sample",
-      "file_name": "pdf-sample",
-      "file_type": "application/pdf",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-062315/pdf-sample.pdf",
-      "date_added": "pdf-sample",
-      "tags": "",
-      "file_size": "7945",
-      "width": "",
-      "height": "",
-      "description": "",
-      "url_large": "",
-      "url_medium": "",
-      "url_small": "",
-      "url_xsmall": "",
-      "url_thumb": ""
     }
   ],
   "gallery_description": "",
