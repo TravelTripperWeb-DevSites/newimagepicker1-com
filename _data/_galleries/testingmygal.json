@@ -18,6 +18,7 @@
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033107/xsmall_index1.jpeg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033107/thumb_index1.jpeg"
     },
+    null,
     {
       "name": "sun_PNG13446",
       "file_name": "sun_PNG13446",
@@ -36,23 +37,6 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033219/thumb_sun_PNG13446.png"
     },
     {
-      "name": "pdf-sample",
-      "file_name": "pdf-sample",
-      "file_type": "application/pdf",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-061321/pdf-sample.pdf",
-      "date_added": "pdf-sample",
-      "tags": "",
-      "file_size": "7945",
-      "width": "",
-      "height": "",
-      "description": "",
-      "url_large": "",
-      "url_medium": "",
-      "url_small": "",
-      "url_xsmall": "",
-      "url_thumb": ""
-    },
-    {
       "name": "happybirthday",
       "file_name": "happybirthday",
       "file_type": "image/jpeg",
@@ -68,23 +52,6 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-064032/small_happybirthday.jpeg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-064032/xsmall_happybirthday.jpeg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-07-12-064032/thumb_happybirthday.jpeg"
-    },
-    {
-      "name": "SampleVideo_1280x720_1mb",
-      "file_name": "SampleVideo_1280x720_1mb",
-      "file_type": "video/mp4",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-11-054544/SampleVideo-1280x720-1mb.mp4",
-      "date_added": "SampleVideo_1280x720_1mb",
-      "tags": "",
-      "file_size": "1055736",
-      "width": "",
-      "height": "",
-      "description": "",
-      "url_large": "",
-      "url_medium": "",
-      "url_small": "",
-      "url_xsmall": "",
-      "url_thumb": ""
     }
   ],
   "gallery_description": "",
