@@ -19,23 +19,6 @@
       "url_thumb": ""
     },
     {
-      "name": "conch_PNG18249",
-      "file_name": "conch_PNG18249",
-      "file_type": "image/png",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/conch-PNG18249.png",
-      "date_added": "conch_PNG18249",
-      "tags": "",
-      "file_size": "98074",
-      "width": "301",
-      "height": "280",
-      "description": "",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/large_conch_PNG18249.png",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/medium_conch_PNG18249.png",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/small_conch_PNG18249.png",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/xsmall_conch_PNG18249.png",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/thumb_conch_PNG18249.png"
-    },
-    {
       "name": "SampleVideo_1280x720_1mb",
       "file_name": "SampleVideo_1280x720_1mb",
       "file_type": "video/mp4",
@@ -68,6 +51,23 @@
       "url_small": "",
       "url_xsmall": "",
       "url_thumb": ""
+    },
+    {
+      "name": "conch_PNG18249",
+      "file_name": "conch_PNG18249",
+      "file_type": "image/png",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/conch-PNG18249.png",
+      "date_added": "conch_PNG18249",
+      "tags": "",
+      "file_size": "98074",
+      "width": "301",
+      "height": "280",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/large_conch_PNG18249.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/medium_conch_PNG18249.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/small_conch_PNG18249.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/xsmall_conch_PNG18249.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033011/thumb_conch_PNG18249.png"
     }
   ],
   "gallery_description": "",
