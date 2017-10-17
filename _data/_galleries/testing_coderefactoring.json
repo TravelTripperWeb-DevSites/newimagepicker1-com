@@ -2,23 +2,6 @@
   "gallery_name": "testing coderefactoring",
   "photos": [
     {
-      "name": "200w_s1",
-      "file_name": "200w_s1",
-      "file_type": "image/gif",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/200w-s1.gif",
-      "date_added": "200w_s1",
-      "tags": "",
-      "file_size": "12527",
-      "width": "200",
-      "height": "249",
-      "description": "",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/large_200w_s1.gif",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/medium_200w_s1.gif",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/small_200w_s1.gif",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/xsmall_200w_s1.gif",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/thumb_200w_s1.gif"
-    },
-    {
       "name": "SampleVideo_1280x720_1mb",
       "file_name": "SampleVideo_1280x720_1mb",
       "file_type": "video/mp4",
@@ -36,6 +19,23 @@
       "url_thumb": ""
     },
     {
+      "name": "200w_s1",
+      "file_name": "200w_s1",
+      "file_type": "image/gif",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/200w-s1.gif",
+      "date_added": "200w_s1",
+      "tags": "",
+      "file_size": "12527",
+      "width": "200",
+      "height": "249",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/large_200w_s1.gif",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/medium_200w_s1.gif",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/small_200w_s1.gif",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/xsmall_200w_s1.gif",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-042016/thumb_200w_s1.gif"
+    },
+    {
       "name": "Screen Shot 2017-10-12 at 3.26.07 PM",
       "file_name": "Screen Shot 2017-10-12 at 3.26.07 PM",
       "file_type": "image/png",
@@ -51,23 +51,6 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-073603/small_Screen_Shot_2017-10-12_at_3.26.07_PM.png",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-073603/xsmall_Screen_Shot_2017-10-12_at_3.26.07_PM.png",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-12-073603/thumb_Screen_Shot_2017-10-12_at_3.26.07_PM.png"
-    },
-    {
-      "name": "arctic_fox_PNG18479",
-      "file_name": "arctic_fox_PNG18479",
-      "file_type": "image/png",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-03-053402/arctic-fox-PNG18479.png",
-      "date_added": "arctic_fox_PNG18479",
-      "tags": "",
-      "file_size": "179037",
-      "width": "512",
-      "height": "512",
-      "description": "",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-03-053402/large_arctic_fox_PNG18479.png",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-03-053402/medium_arctic_fox_PNG18479.png",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-03-053402/small_arctic_fox_PNG18479.png",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-03-053402/xsmall_arctic_fox_PNG18479.png",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-03-053402/thumb_arctic_fox_PNG18479.png"
     }
   ],
   "gallery_description": "",
