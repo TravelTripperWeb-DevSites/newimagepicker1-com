@@ -2,23 +2,6 @@
   "gallery_name": "testdelete",
   "photos": [
     {
-      "name": "happybirthday",
-      "file_name": "happybirthday",
-      "file_type": "image/jpeg",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/happybirthday.jpeg",
-      "date_added": "happybirthday",
-      "tags": "",
-      "file_size": "26384",
-      "width": "224",
-      "height": "224",
-      "description": "",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/large_happybirthday.jpeg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/medium_happybirthday.jpeg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/small_happybirthday.jpeg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/xsmall_happybirthday.jpeg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/thumb_happybirthday.jpeg"
-    },
-    {
       "name": "image-move",
       "file_name": "image-move",
       "file_type": "image/png",
