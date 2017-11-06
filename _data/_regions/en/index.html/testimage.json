@@ -1,0 +1,6 @@
+[
+  {
+    "_template": "html",
+    "content": "<div class=\"wrapper dragncrop\" style=\"width: 133px; height: 300px;\">\n<div class=\"dragncrop-containment\" style=\"top: 0px; bottom: 0px; left: -167px; right: -167px; position: absolute;\">&nbsp;</div>\n<img class=\"reposition-image dragncrop-horizontal ui-draggable\" style=\"position: relative; left: -167px;\" src=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-10-27-074204/happybirthday.jpeg\" />\n<div class=\"dragncrop-instruction dragncrop-instruction-autohide\"><span class=\"dragncrop-instruction-text\">Drag to Reposition</span></div>\n</div>"
+  }
+]
