@@ -1,0 +1,10 @@
+
+{
+  "Title": {
+    "required": true
+  },
+  "page slug": {
+    "type": "url_slug",
+    "required": true
+  }
+}

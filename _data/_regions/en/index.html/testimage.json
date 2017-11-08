@@ -1,0 +1,6 @@
+[
+  {
+    "_template": "html",
+    "content": "<div class=\"dragncrop\" style=\"width: 400px; height: 600px;\">\n<div class=\"dragncrop-containment\" style=\"top: 0px; bottom: 0px; left: -200px; right: -200px; position: absolute;\">&nbsp;</div>\n<img id=\"1510049715137\" class=\"reposition-image dragncrop-horizontal ui-draggable\" style=\"position: relative; left: -200px;\" src=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/mint-PNG38.png\" data-image-large=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/large_mint_PNG38.png\" data-image-medium=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/medium_mint_PNG38.png\" data-image-small=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/small_mint_PNG38.png\" data-image-xsmall=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/xsmall_mint_PNG38.png\" data-image-thumb=\"//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_3/media/2017-09-27-033133/thumb_mint_PNG38.png\" />\n<div class=\"dragncrop-instruction dragncrop-instruction-autohide\"><span class=\"dragncrop-instruction-text\">Drag to Reposition</span></div>\n</div>"
+  }
+]
